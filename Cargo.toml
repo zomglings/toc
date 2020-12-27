@@ -1,0 +1,8 @@
+[package]
+name = "toc"
+version = "0.1.0"
+authors = ["Neeraj Kashyap <nkashy1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "3.0.0-beta.2"
